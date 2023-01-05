@@ -1,6 +1,7 @@
-(defproject vvvvalvalval/datomock "0.2.2"
-  :description "Mocking and forking Datomic connections locally."
-  :url "https://github.com/vvvvalvalval/datomock"
+(defproject org.clojars.favila/datomock "0.2.2-favila1"
+  :description "Mocking and forking Datomic connections locally.
+  Fork of vvvvalvalval/datomock"
+  :url "https://github.com/favila/datomock"
   :license {:name "MIT"
             :url "https://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.7.0"]]
